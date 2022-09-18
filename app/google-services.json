@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347913466462",
+    "project_id": "medplus-68a32",
+    "storage_bucket": "medplus-68a32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347913466462:android:db49300b74d801c541facf",
+        "android_client_info": {
+          "package_name": "com.pratiktikande.medplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347913466462-pmikctcl615n5vfv7hri6uluv7i86trb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIzo14oS2aQ5oy5wWCILKay7ZLYooVCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347913466462-pmikctcl615n5vfv7hri6uluv7i86trb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
